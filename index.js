@@ -4,3 +4,4 @@ var customerName = 'bob'
 Function upperCaseCustomerName() {
   let customerName1 = customerName.toUpperCase()
 }
+upperCaseCustomerName()
