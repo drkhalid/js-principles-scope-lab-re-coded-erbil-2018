@@ -1,7 +1,5 @@
 // Write your solution in this file!
 var customerName = 'bob'
 
-Function upperCaseCustomerName(){
-  customerName=customerName.toUpperCse()
-  
-}
+function upperCaseCustomerName() {
+  customerName = customerName.toUpperCase()
